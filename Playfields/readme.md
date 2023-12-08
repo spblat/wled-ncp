@@ -2,6 +2,6 @@ The json files are maps we upload to the WLED microcontrollers. The numbers in t
 
 The upshot of all this is that one or more playfields can be combined into a 2D space, so that 2D effects in WLED across several playfields will look marginally coherent.
 
-The numbers in the images are physical LED positions and are used to create the maps.
+The numbers in the images are physical LED positions and are used to create the maps. Numbers in parentheses represent physical LEDs that are behind the playfield, invisible to the viewer (because a wire in the string might not have been long enough).
 
 These map jsons can be placed into "ledmap.json" or "ledmapX.json" using http://[wled]/edit --ledmaps are referenced in the segments interface.
