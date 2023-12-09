@@ -1,0 +1,1 @@
+See notes in readme from directory above. But note that "meta" ledmaps relate to the ledmap that is active on the target playfield at the time DDP data starts to come in. So if the default operating mode of a playfield depends on a ledmap, the "meta" ledmap referencing that playfield should use the logical LED positions, not the physical ones. 
