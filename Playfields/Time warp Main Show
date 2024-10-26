@@ -1,0 +1,16 @@
+{"on":true,"bri":255,"transition":7,"mainseg":0,"seg":[{"id":0,"start":0,"stop":100,"grp":1,"spc":0,"of":0,"on":false,"frz":false,"bri":255,"cct":127,"set":0,"n":"","col":[[255,160,0],[0,0,0],[0,0,0]],"fx":13,"sx":0,"ix":37,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":1,"start":0,"stop":10,"grp":2,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"5-lines","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":10,"sx":234,"ix":47,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":2,"start":10,"stop":18,"grp":2,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"4-lines","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":37,"sx":128,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":true,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":3,"start":18,"stop":48,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"GI","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":0,"sx":128,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":4,"start":48,"stop":60,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"Triangle","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":54,"sx":205,"ix":51,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":5,"start":60,"stop":66,"grp":3,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"Lanes","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":41,"sx":91,"ix":128,"pal":2,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":6,"start":66,"stop":71,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"Pops","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":28,"sx":128,"ix":226,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":7,"start":71,"stop":79,"grp":2,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"4-lines(u)","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":10,"sx":246,"ix":65,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":8,"start":79,"stop":80,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"Credit","col":[[255,170,0],[0,0,0],[0,0,0]],"fx":1,"sx":128,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":false,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0}],"ledmap":1}
+
+LED Map 1 
+{
+  "map": [
+    7,38,8,37,10,36,13,35,14,34,
+    96,79,95,70,97,67,98,71,
+    3,16,5,17,4,40,22,41,43,45,44,87,49,89,90,52,56,82,54,57,68,69,80,81,77,78,62,75,73,64,
+    31,27,25,26,15,12,11,9,6,29,28,30,
+    2,39,33,19,21,23,
+    51,47,99,94,92,
+    86,58,85,59,84,60,83,66,
+    0
+  ]
+}
+
