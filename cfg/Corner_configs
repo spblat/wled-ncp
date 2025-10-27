@@ -1,0 +1,89 @@
+Lounge Preset recovery
+
+1 AR blue upward
+{"on":true,"bri":164,"transition":7,"netDebug":false,"ps":1,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":156,"set":0,"col":[[0,0,255,0],[0,255,200,0],[0,0,0,0]],"fx":131,"sx":158,"ix":74,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":true,"mi":false,"o1":false,"o2":false,"o3":false,"si":1,"m12":2}],"ledmap":3}
+
+2 AR active VU
+{"on":true,"bri":126,"transition":7,"netDebug":false,"ps":2,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[255,8,0,0],[255,218,186,0],[0,0,0,0]],"fx":132,"sx":133,"ix":119,"pal":46,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":2}],"ledmap":3}
+
+3 bright light
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":3,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,255,255,0],[255,238,186,0],[0,0,0,0]],"fx":0,"sx":128,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+4 AR warm puddles
+{"on":true,"bri":198,"transition":7,"netDebug":false,"ps":4,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":65,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":134,"sx":166,"ix":113,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+5 nice dancing shadows
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":5,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[255,200,0,0],[255,129,10,191],[0,0,0,0]],"fx":112,"sx":128,"ix":128,"pal":39,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+6 pretty rainbow
+{"on":true,"bri":70,"transition":7,"netDebug":false,"ps":6,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[255,8,0,0],[255,129,10,191],[0,0,0,0]],"fx":63,"sx":77,"ix":128,"pal":51,"c1":128,"c2":128,"c3":16,"sel":true,"rev":true,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+7 chill perlin move
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":7,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,8,0,0],[255,255,255,0],[0,0,0,0]],"fx":147,"sx":234,"ix":137,"pal":70,"c1":25,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":2}],"ledmap":3}
+
+8 super mellow green brown 
+{"on":true,"bri":102,"transition":7,"netDebug":false,"ps":8,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,8,0,0],[255,255,255,0],[0,0,0,0]],"fx":106,"sx":128,"ix":128,"pal":11,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+9 heartbeat pulse
+{"on":true,"bri":162,"transition":7,"netDebug":false,"ps":9,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":104,"sx":171,"ix":255,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+10 chill bouncing balls
+{"on":true,"bri":63,"transition":7,"netDebug":false,"ps":10,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,160,0,0],[255,255,255,0],[0,0,0,0]],"fx":91,"sx":137,"ix":92,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":1}],"ledmap":3}
+
+11 boring mellow pink
+{"on":true,"bri":117,"transition":7,"netDebug":false,"ps":11,"pl":99,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,160,0,0],[255,255,255,0],[0,0,0,0]],"fx":102,"sx":42,"ix":224,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+12 nice chun
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":12,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,0,0,0],[54,54,54,0],[0,0,0,0]],"fx":111,"sx":14,"ix":106,"pal":1,"c1":128,"c2":128,"c3":16,"sel":true,"rev":true,"mi":false,"o1":false,"o2":false,"o3":false,"si":1,"m12":0}],"ledmap":3}
+
+13 red plasmoid
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":13,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[255,199,0,0],[31,23,0,0],[0,0,0,0]],"fx":133,"sx":128,"ix":80,"pal":8,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+14 active popcorn
+{"on":true,"bri":166,"transition":7,"netDebug":false,"ps":14,"pl":99,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,139,31,0],[255,224,160,0],[0,0,0,0]],"fx":95,"sx":128,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":1}],"ledmap":3}
+
+15 chill ripplepeak
+{"on":true,"bri":198,"transition":7,"netDebug":false,"ps":15,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":65,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":148,"sx":118,"ix":60,"pal":0,"c1":8,"c2":62,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+16 chill AR green plasmoid
+{"on":true,"bri":174,"transition":7,"netDebug":false,"ps":16,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":93,"set":0,"col":[[128,0,128,0],[140,140,140,0],[65,105,3,0]],"fx":133,"sx":122,"ix":79,"pal":5,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+17 warm+green raindrops
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":17,"pl":99,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,0,0,0],[255,224,160,0],[10,255,22,0]],"fx":79,"sx":90,"ix":27,"pal":26,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+18 rainbow ripple
+{"on":true,"bri":198,"transition":7,"netDebug":false,"ps":18,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":65,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":99,"sx":128,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+19 chill rolling balls
+{"on":true,"bri":162,"transition":7,"netDebug":false,"ps":19,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":214,"len":214,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":48,"sx":128,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":1}],"ledmap":3}
+
+20 active glitter
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":20,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":255,"set":0,"col":[[32,4,74,0],[255,238,186,0],[8,255,0,0]],"fx":103,"sx":128,"ix":104,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+21 chill sparkle
+{"on":true,"bri":255,"transition":7,"netDebug":false,"ps":21,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[209,236,255,0],[189,166,119,0],[8,255,0,0]],"fx":20,"sx":164,"ix":128,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+22 cool purple
+{"on":true,"bri":199,"transition":7,"netDebug":false,"ps":22,"pl":99,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":54,"set":0,"col":[[139,80,179,0],[255,255,255,0],[3,94,0,0]],"fx":80,"sx":128,"ix":128,"pal":3,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+23 washing machine
+{"on":true,"bri":162,"transition":7,"netDebug":false,"ps":23,"pl":99,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[212,185,133,0],[191,191,191,0],[0,0,0,0]],"fx":113,"sx":128,"ix":128,"pal":3,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+24 sunrise
+{"on":true,"bri":162,"transition":7,"netDebug":false,"ps":24,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":104,"sx":59,"ix":255,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+25 sunset 
+{"on":true,"bri":162,"transition":7,"netDebug":false,"ps":25,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":104,"sx":80,"ix":255,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+26 AR purple gravimeter
+{"on":true,"bri":126,"transition":7,"netDebug":false,"ps":26,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[255,8,0,0],[255,97,118,0],[0,0,0,0]],"fx":132,"sx":133,"ix":119,"pal":7,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":2}],"ledmap":3}
+
+27 another sunrise
+{"on":true,"bri":162,"transition":7,"netDebug":false,"ps":24,"pl":27,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":0,"set":0,"col":[[255,192,43,0],[255,238,186,0],[0,0,0,0]],"fx":104,"sx":59,"ix":255,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0}],"ledmap":3}
+
+28 pleasant pacifica
+{"on":true,"bri":70,"transition":7,"netDebug":false,"ps":28,"pl":-1,"AudioReactive":{"on":true},"nl":{"on":false,"dur":60,"mode":1,"tbri":0,"rem":-1},"udpn":{"send":true,"recv":true,"sgrp":2,"rgrp":0},"lor":0,"mainseg":0,"seg":[{"id":0,"start":0,"stop":216,"len":216,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[255,8,0,0],[255,129,10,191],[0,0,0,0]],"fx":101,"sx":128,"ix":128,"pal":51,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":2}],"ledmap":3}
+
+99 chill playlist
+
+101 active playlist
